@@ -1,1 +1,8 @@
 hi hey hi how r u g
+
+steps
+git clone https://github.com/browntr2/3IE1_CompSci_V1.git
+git status
+git add --all
+git commit -m 'change'
+git push
