@@ -33,3 +33,10 @@ I think that this would be better if I had an '<https://www.psychologytoday.com/
 
 # A TABLE
 ![A Table](https://hivemodern.com/public_resources/wood-table-edward-barber-jay-osgerby-vitra-1.jpg)
+## Another table
+My first | My second
+------------ | -------------
+I wanna eat | even tho I'm full
+:bird: :funeral_urn: | :pig: are tasty
+
+:family_man_man_boy_boy:
