@@ -32,4 +32,4 @@ I think that this would be better if I had an '<https://www.psychologytoday.com/
 ![Puuppy](https://thenypost.files.wordpress.com/2018/05/180516-woman-mauled-by-angry-wiener-dogs-feature.jpg)
 
 # A TABLE
-![A Table] (https://hivemodern.com/public_resources/wood-table-edward-barber-jay-osgerby-vitra-1.jpg)
+![A Table](https://hivemodern.com/public_resources/wood-table-edward-barber-jay-osgerby-vitra-1.jpg)
